@@ -5,4 +5,10 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+
+    <string name="valid_username_empty">Please enter the username</string>
+    <string name="valid_password_empty">Please enter the password</string>
+    <string name="hello" >Hello</string>
+
 </resources>
